@@ -2,6 +2,7 @@ import 'dart:ui';
 
 class Colors{
   static Color black=Color(0xff2C2C2C);
+  static Color red=Color(0xffE53946);
   static Color orange=Color(0xff67A41C);
   static Color korange=Color(0xffEB5A3C);
   static Color kblack=Color(0xff161616);
